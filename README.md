@@ -34,8 +34,9 @@ Joyice is a **Web3 rewards platform** where you earn crypto daily by smiling! Bo
 ## 🚀 Status
 
 ✅ Initialized with Next.js  
+✅ Smile detection
 ✅ Design in progress  
-🔜 Smile detection + wallet integration
+🔜 Wallet integration, User Authentication, Crypto Payment Gateway, Admin dashboard
 
 ---
 
